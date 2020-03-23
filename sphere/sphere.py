@@ -1,4 +1,4 @@
-import math, pickle
+import miath, pickle
 
 class Sphere(object):
 
